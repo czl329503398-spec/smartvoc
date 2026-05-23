@@ -1,0 +1,7 @@
+{
+  "name": "Vocab Tracker",
+  "description": "An elegant English word learning tracker featuring common vocabulary difficulty tags, Leitner spaced-repetition countdown timers, and an interactive quiz game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
